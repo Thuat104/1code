@@ -1,4 +1,4 @@
-# 1Code
+Code
 
 [1Code.dev](https://1code.dev)
 
